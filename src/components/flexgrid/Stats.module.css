@@ -1,0 +1,9 @@
+.statTable {
+  background: rgb(58, 58, 58);
+  color: white;
+  text-align: center;
+}
+
+.statTableBody {
+  color: rgb(0, 0, 0);
+}

@@ -1,0 +1,33 @@
+#totals {
+  background: rgb(46, 46, 46);
+  border-radius: 10px;
+  margin-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lime;
+  align-items: center;
+}
+
+#totals h4 {
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.totalsContainer {
+  display: flex;
+  width: 100%;
+  padding: 1.5rem;
+  justify-content: space-evenly;
+  color: white;
+  flex-direction: row;
+  text-align: center;
+}
+
+.totalsContainer h6 {
+  font-size: 1.5rem;
+}
+
+.totalsContainer p {
+  color: lightgreen;
+}
